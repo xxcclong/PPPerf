@@ -1,0 +1,4 @@
+argparse
+influxdb
+pynput
+AppKit

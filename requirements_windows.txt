@@ -1,0 +1,5 @@
+argparse
+influxdb
+pynput
+pywin32
+psutil
